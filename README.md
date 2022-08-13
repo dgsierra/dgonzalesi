@@ -7,5 +7,6 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I stil have my first PC (Macintosh 128K).
+- 🥇 Certifications: Intro to Back End - Meta ,Intro to Cyber Security - Cisco, Project Manager - Google.
 
 Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
