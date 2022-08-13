@@ -7,3 +7,5 @@
 - 📫 How to reach me: 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I stil have my first PC (Macintosh 128K).
+
+Check my last project : [link](https://dgonzalesi.github.io/To-Do-List-Webpack/)
