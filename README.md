@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, stranger 👋
 
 - 🔭 I’m currently working on: JavaScript
 - 🌱 I’m currently learning Python for Back-End (Next: React)
@@ -8,4 +8,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I stil have my first PC (Macintosh 128K).
 
-Check my last project : [link](https://dgonzalesi.github.io/To-Do-List-Webpack/)
+Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
