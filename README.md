@@ -6,7 +6,7 @@
 - 💬 Ask me about Any of my pass projects if i can help you with somenthing i will glado to do it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-g-sierra-60472719/)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I stil have my first PC (Macintosh 128K).
+- ⚡ Fun fact: I stil have my first PC (Macintosh Classic II).
 - 🥇 Certifications: Intro to Back End - Meta ,Intro to Cyber Security - Cisco, Project Manager - Google.
 
 Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
