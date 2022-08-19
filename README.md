@@ -7,6 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-g-sierra-60472719/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I stil have my first PC (Macintosh Classic II).
+- 📋 My last post in Medium: [is cybersecurity only for developed countris?](https://medium.com/@dgonzalesi285/is-cybersecurity-only-for-developed-countries-c567cd93a0ce)
 - 🥇 Certifications: 
     - Intro to Back End - Meta 
     - Intro to Cyber Security - Cisco
