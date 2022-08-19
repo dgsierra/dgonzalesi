@@ -7,6 +7,11 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-g-sierra-60472719/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I stil have my first PC (Macintosh Classic II).
-- 🥇 Certifications: Intro to Back End - Meta ,Intro to Cyber Security - Cisco, Project Manager - Google.
+- 🥇 Certifications: 
+    - Intro to Back End - Meta 
+    - Intro to Cyber Security - Cisco
+    - Programming with JavaScript - Meta
+    - Project Management - Google.
+    - HTML/CSS Microverse
 
 Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
