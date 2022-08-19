@@ -13,6 +13,6 @@
     - Intro to Cyber Security - Cisco
     - Programming with JavaScript - Meta
     - Project Management - Google.
-    - HTML/CSS Microverse
+    - HTML/CSS - Microverse
 
 Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
