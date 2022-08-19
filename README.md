@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on: JavaScript
 - 🌱 I’m currently learning Python for Back-End (Next: React)
-/* - 👯 I’m looking to collaborate on ... */
 - 💬 Ask me about Any of my pass projects if i can help you with somenthing i will glado to do it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-g-sierra-60472719/)
 - 😄 Pronouns: he/his
