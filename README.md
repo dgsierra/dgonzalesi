@@ -8,10 +8,11 @@
 - ⚡ Fun fact: I still have my first PC (Macintosh Classic II).
 - 📋 My last post in Medium: [is cybersecurity only for developed countries?](https://medium.com/@dgonzalesi285/is-cybersecurity-only-for-developed-countries-c567cd93a0ce)
 - 🥇 Certifications: 
+    - Programming with JavaScript - Meta 
     - Intro to Back End - Meta 
     - Intro to Cyber Security - Cisco
-    - Programming with JavaScript - Meta
     - Project Management - Google.
     - HTML/CSS - Microverse
+    - Pre Security Path - Try Hack Me
 
 Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
