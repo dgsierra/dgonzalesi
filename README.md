@@ -1,7 +1,7 @@
 ### Hi there, stranger 👋
 
-- 🔭 I’m currently working on: JavaScript
-- 🌱 I’m currently learning Python for Back-End (Next: React)
+- 🔭 I’m currently working on: ReactJS
+- 🌱 I’m currently learning Python for Back-End (Next: Ruby)
 - 💬 Ask me about Any of my pass projects if i can help you with somenthing i will glado to do it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/daniel-g-sierra-60472719/) | [email](mailto:assay-chill.0l@icloud.com?subject=[GitHub])
 - 😄 Pronouns: he/his
