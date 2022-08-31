@@ -15,4 +15,4 @@
     - HTML/CSS - Microverse
     - Pre Security Path - Try Hack Me
 
-Check my last project : [To Do List](https://dgonzalesi.github.io/To-Do-List-Webpack/)
+Check my last project : [Leaderboard using an API](https://dgonzalesi.github.io/Leaderboard-APIs/)
