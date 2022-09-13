@@ -15,4 +15,4 @@
     - HTML/CSS - Microverse
     - Pre Security Path - Try Hack Me
 
-Check my last project : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
+Check my last team project : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
