@@ -15,5 +15,6 @@
     - HTML/CSS - Microverse
     - Pre Security Path - Try Hack Me
 
-Chec my last individual project on React JS: [Spotitracker] [https://fabulous-moonbeam-c5411a.netlify.app/]
+Check my last project on React JS: [Spotytracker
+] (https://fabulous-moonbeam-c5411a.netlify.app/)
 Check my last team project : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
