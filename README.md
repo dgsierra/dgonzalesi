@@ -1,8 +1,8 @@
 ### Hi there, stranger 👋
 
-- 🔭 I’m currently working on: ReactJS
+- 🔭 I’m currently working on: Ruby
 - 🌱 I’m currently learning Python for Back-End
-- 💬 Ask me about Any of my pass projects if i can help you with somenthing i will glado to do it.
+- 💬 Ask me about Any of my pass projects if i can help you with somenthing i will glad to do it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dgonzalesi/) | [email](mailto:assay-chill.0l@icloud.com?subject=[GitHub])
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I still have my first PC (Macintosh Classic II).
