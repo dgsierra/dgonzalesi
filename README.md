@@ -15,6 +15,8 @@
     - HTML/CSS - Microverse
     - Pre Security Path - Try Hack Me
 
-Check my last project on React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
+Check my project in React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
 <br>
-Check my last team project : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
+Check my JavaScript : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
+<br>
+<img src="https://www.codewars.com/users/dgonzalesi/badges/small"></img>
