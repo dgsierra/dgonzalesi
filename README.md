@@ -17,6 +17,6 @@
 
 Check my project in React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
 <br>
-Check my JavaScript : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
+Check my project in JavaScript : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
 <br>
 <img src="https://www.codewars.com/users/dgonzalesi/badges/small"></img>
