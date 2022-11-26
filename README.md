@@ -12,7 +12,7 @@
     - Intro to Back End - Meta 
     - Intro to Cyber Security - Cisco
     - Project Management - Google.
-    - HTML/CSS - Microverse
+    - HTML/CSS, JS, ReacJS, Ruby - Microverse
     - Pre Security Path - Try Hack Me
 
 Check my project in React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
