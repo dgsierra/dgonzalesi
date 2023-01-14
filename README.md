@@ -1,7 +1,7 @@
 ### Hi there, stranger 👋
 
 - 🔭 I’m currently working on: Ruby on Rails
-- 🌱 I’m currently learning: Python - Back-End (FastAPI)
+- 🌱 I’m currently learning: Java - Docker
 - 💬 Ask me about Any of my pass projects if i can help you with something i will glad to do it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dgonzalesi/) | [email](mailto:assay-chill.0l@icloud.com?subject=[GitHub])
 - 😄 Pronouns: he/his
