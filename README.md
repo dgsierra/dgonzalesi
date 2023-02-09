@@ -15,10 +15,10 @@
     - HTML/CSS, JS, ReacJS, Ruby - Microverse
     - Pre Security Path - Try Hack Me
 
-Check my project in React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
+Check my project using React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
 <br>
-Check my project in JavaScript : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
+Check my project using JavaScript : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
 <br>
-Check my project in Ruby On Rails: [The Recipes Book](https://the-recipes-book-2022.onrender.com/users/sign_in)
+Check my project using Ruby On Rails: [The Recipes Book](https://the-recipes-book-2022.onrender.com/users/sign_in) (The deploy is in Render.com so its a little slow as is a free tier)
 <br>
 <img src="https://www.codewars.com/users/dgonzalesi/badges/small"></img>
