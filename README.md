@@ -1,19 +1,18 @@
 ### Hi there, stranger 👋
 
 - 🔭 I’m currently working on: Ruby on Rails
-- 🌱 I’m currently learning: Docker
+- 🌱 I’m currently learning: React Native
 - 💬 Ask me about Any of my pass projects if I can help you with something I will glad to do it.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dgonzalesi/) | [email](mailto:assay-chill.0l@icloud.com?subject=[GitHub])
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm still have my first PC (Macintosh Classic II).
+- ⚡ Fun fact: I still have my first PC (Macintosh Classic II).
 - 📋 My last post in Medium: [is cybersecurity only for developed countries?](https://medium.com/@dgonzalesi285/is-cybersecurity-only-for-developed-countries-c567cd93a0ce)
 - 🥇 Certifications:
     - Programming with JavaScript - Meta 
-    - Intro to Back End - Meta 
-    - Intro to Cyber Security - Cisco
+    - Back End - Meta 
+    - Cyber Security - Cisco
     - Project Management - Google.
-    - HTML/CSS, JS, ReacJS, Ruby - Microverse
-    - Pre Security Path - Try Hack Me
+    - Security Path - Try Hack Me
 
 Check my project using React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
 <br>
