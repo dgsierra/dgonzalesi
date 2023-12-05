@@ -14,10 +14,4 @@
     - Project Management - Google.
     - Security Path - Try Hack Me
 
-Check my project using React JS: [Spotytracker](https://fabulous-moonbeam-c5411a.netlify.app/)
-<br>
-Check my project using JavaScript : [Pokedex Using APIs](https://github.com/ErikStoupignan/Capstone-m2-APIs-baseapp-pokemon)
-<br>
-Check a project using Ruby On Rails: [Blue Dreams](https://blue-dreams-back-end.herokuapp.com/ships/index) || [Docs](https://documenter.getpostman.com/view/25472635/2s8ZDbUzpv#162b150b-68bd-4c85-860b-157a56653ab9)
-<br>
 <img src="https://www.codewars.com/users/dgonzalesi/badges/small"></img>
